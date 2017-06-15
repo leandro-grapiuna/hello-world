@@ -1,2 +1,1 @@
-# hello-world
-Primeiro repositório no GitHub
+A bit about myself.
